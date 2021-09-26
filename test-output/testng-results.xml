@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-26T22:44:36Z" name="Default suite" finished-at="2021-09-26T22:44:46Z" duration-ms="9952">
+    <groups>
+    </groups>
+    <test started-at="2021-09-26T22:44:36Z" name="Default test" finished-at="2021-09-26T22:44:46Z" duration-ms="9952">
+      <class name="testcases.Search_testcases">
+        <test-method is-config="true" signature="open_browser()[pri:0, instance:testcases.Search_testcases@6574a52c]" started-at="2021-09-26T22:44:36Z" name="open_browser" finished-at="2021-09-26T22:44:43Z" duration-ms="6885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method signature="timeOfResults_displayed()[pri:0, instance:testcases.Search_testcases@6574a52c]" started-at="2021-09-26T22:44:43Z" name="timeOfResults_displayed" finished-at="2021-09-26T22:44:46Z" duration-ms="3053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- timeOfResults_displayed -->
+        <test-method is-config="true" signature="close_browser()[pri:0, instance:testcases.Search_testcases@6574a52c]" started-at="2021-09-26T22:44:46Z" name="close_browser" finished-at="2021-09-26T22:44:46Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_browser -->
+      </class> <!-- testcases.Search_testcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
